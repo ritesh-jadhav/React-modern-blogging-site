@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import Home from './Home';
 import {BrowserRouter as Router,Switch,Route} from 'react-router-dom';
 import Create from './Create';
+import BlogDetails from './BlogDetails';
   function App() {
     
     return (
@@ -12,10 +13,13 @@ import Create from './Create';
           <div className="content">
             <Switch>
               <Route exact path="/">
-                <Home/>
+                <Home />
               </Route>
               <Route path="/create">
-                <Create/>
+                <Create />
+              </Route>
+              <Route path="/blogs/:id">
+                <BlogDetails />
               </Route>
             </Switch>
           </div>
