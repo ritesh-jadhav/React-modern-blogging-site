@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-modern-blogging-site-gh-pages/static/css/main.a70e5c89.chunk.css",
+    "main.js": "/React-modern-blogging-site-gh-pages/static/js/main.242cb14d.chunk.js",
+    "main.js.map": "/React-modern-blogging-site-gh-pages/static/js/main.242cb14d.chunk.js.map",
+    "runtime-main.js": "/React-modern-blogging-site-gh-pages/static/js/runtime-main.d50b2167.js",
+    "runtime-main.js.map": "/React-modern-blogging-site-gh-pages/static/js/runtime-main.d50b2167.js.map",
+    "static/js/2.191285c0.chunk.js": "/React-modern-blogging-site-gh-pages/static/js/2.191285c0.chunk.js",
+    "static/js/2.191285c0.chunk.js.map": "/React-modern-blogging-site-gh-pages/static/js/2.191285c0.chunk.js.map",
+    "index.html": "/React-modern-blogging-site-gh-pages/index.html",
+    "static/css/main.a70e5c89.chunk.css.map": "/React-modern-blogging-site-gh-pages/static/css/main.a70e5c89.chunk.css.map",
+    "static/js/2.191285c0.chunk.js.LICENSE.txt": "/React-modern-blogging-site-gh-pages/static/js/2.191285c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d50b2167.js",
+    "static/js/2.191285c0.chunk.js",
+    "static/css/main.a70e5c89.chunk.css",
+    "static/js/main.242cb14d.chunk.js"
+  ]
+}
