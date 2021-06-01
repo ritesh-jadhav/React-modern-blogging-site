@@ -1,16 +1,16 @@
 {
-    "blogs":[
-        {
-            "title": "party tonight",
-            "body":"it's weekend and we going to rock the part at my house",
-            "author":"mario",
-            "id":1
-        },
-        {
-            "title": "get together",
-            "body":"arrange alumini meet for more guidence to survive better",
-            "author":"yoshi",
-            "id":2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "party tonight",
+      "body": "it's weekend and we going to rock the part at my house",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "get together",
+      "body": "arrange alumini meet for more guidence to survive better",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
 }
